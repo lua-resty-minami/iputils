@@ -90,7 +90,7 @@ end
 
 Author
 ======
-Minami (Nanqinlang) (南琴浪) <https://sometimesnaive.org>
+Minami (Nanqinlang) (南琴浪) <https://sometimesnaive.org/>
 
 [Back to TOC](#table-of-contents)
 
